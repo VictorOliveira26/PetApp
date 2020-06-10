@@ -9,6 +9,7 @@ import DAO.ArrayAnimalDoacao;
 import Model.Vacina;
 import DAO.ArrayVacina;
 
+/* André Luiz H. Kanashiro / Victor Oliveira*/
 public class Principal {
 
 	static Scanner ler = new Scanner(System.in);
