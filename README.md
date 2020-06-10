@@ -14,4 +14,4 @@ Focando em Cadastros.
 
 ## Linguagem
 
-* [JAVA](https://docs.oracle.com/javase/tutorial/) - Linguagem de programaçã
+* [JAVA](https://docs.oracle.com/javase/tutorial/) - Linguagem de programação
